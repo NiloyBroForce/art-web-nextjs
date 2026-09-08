@@ -3,7 +3,7 @@ The source code is licensed under MIT, but all photography/art assets are Copyri
 👤 Contact
 
 Niloy - Software Developer  
-Project Link: [https://github.com/NiloyBroForce/etherealdreams]
+Project Link: [https://github.com/NiloyBroForce/art-web-nextjs]
 
 💎 Ethereal Art Gallery 
 

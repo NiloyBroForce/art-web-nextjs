@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "EtherealDreams",
-  "short_name": "EtherealDreams",
+  "name": "ArtWeb",
+  "short_name": "ArtWeb",
   "description": "An ethereal digital art gallery showcasing creative original photography.",
   "start_url": "/",
   "scope": "/",
@@ -64,28 +64,28 @@
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "EtherealDreams Digital Gallery View"
+      "label": "ArtWeb Digital Gallery View"
     },
     {
       "src": "/screenshots/desktop-gallery2.png",
       "sizes": "1920x1080",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "EtherealDreams Digital Gallery View"
+      "label": "ArtWeb Digital Gallery View"
     },
     {
       "src": "/screenshots/mobile-gallery.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "EtherealDreams Mobile Gallery View"
+      "label": "ArtWeb Mobile Gallery View"
     },
     {
       "src": "/screenshots/mobile-gallery2.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "EtherealDreams Mobile Gallery View"
+      "label": "ArtWeb Mobile Gallery View"
     }
   ],
   "shortcuts": [
@@ -118,7 +118,7 @@
     {
       "name": "About the Artist",
       "short_name": "About",
-      "description": "Learn more about the idea behind EtherealDreams",
+      "description": "Learn more about the idea behind ArtWeb",
       "url": "/about",
       "icons": [
         { 
@@ -131,7 +131,7 @@
   ],
   "widgets": [
     {
-      "name": "EtherealDreams Feature",
+      "name": "ArtWeb Feature",
       "short_name": "Art icon",
       "description": "Check out the latest digital art showcase updates directly on your desktop.",
       "tag": "art",

@@ -5,7 +5,7 @@ export const runtime = 'nodejs';
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
-  const title = searchParams.get('title') || 'EtherealDreams';
+  const title = searchParams.get('title') || 'ArtWeb';
 
   return new ImageResponse(
     (

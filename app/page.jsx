@@ -2,7 +2,7 @@ import Index from "@/components/Index";
 import { canvasData,getPaintUrl } from "@/data/Data"; 
 
 export const metadata = {
-	title: "EtherealDreams",
+	title: "ArtWeb",
 	description:
 	"A curated collection of dreamlike automotive photography and refractive visual studies. Explore the intersection of light, reflection, and shadow in these abstract landscapes.",
 	keywords: [
@@ -13,16 +13,16 @@ export const metadata = {
 	],
 
 	openGraph: {
-				title: "EtherealDreams",		
+				title: "ArtWeb",		
 	
 			description:"A curated collection of dreamlike automotive photography and refractive visual studies. Explore the intersection of light, reflection, and shadow in these abstract landscapes.",
-				url: "https://etherealdreams.vercel.app/",
-						siteName: "EtherealDreams",
+				url: "https://art-web-nextjs.vercel.app/",
+						siteName: "ArtWeb",
 				
 		images: [
 			{
 				
-				url:`/api/og?title=EtherealDreams`,
+				url:`/api/og?title=ArtWeb`,
 				width: 1200,
 				height: 630,
 				alt: "Gallery Preview",

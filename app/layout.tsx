@@ -14,10 +14,10 @@ const raleway = Raleway({
 const fraunces = Fraunces({ subsets: ["latin"], variable: "--font-display", axes: ["opsz"] });
   const inter = Inter({ subsets: ["latin"], variable: "--font-body" });
 export const metadata: Metadata = {
-  metadataBase: new URL("https://etherealdreams.vercel.app"),
+  metadataBase: new URL("https://art-web-nextjs.vercel.app"),
   title: {
-    default: "EtherealDreams | Surreal Automotive & Abstract Visual Art",
-    template: "%s | EtherealDreams",
+    default: "ArtWeb | Surreal Automotive & Abstract Visual Art",
+    template: "%s | ArtWeb",
   },
   description:
     "A curated collection of dreamlike automotive photography, paintings and refractive visual studies. Explore the intersection of light, reflection, and shadow in these abstract landscapes.",
@@ -31,14 +31,14 @@ export const metadata: Metadata = {
   manifest: "/site.webmanifest",
 
   openGraph: {
-    title: "EtherealDreams | Surreal Automotive & Abstract Visual Art",
+    title: "ArtWeb | Surreal Automotive & Abstract Visual Art",
     description:
       "A curated collection of dreamlike automotive photography, paintings and refractive visual studies. Explore the intersection of light, reflection, and shadow in these abstract landscapes.",
-    url: "https://etherealdreams.vercel.app/",
-    siteName: "EtherealDreams",
+    url: "https://art-web-nextjs.vercel.app/",
+    siteName: "ArtWeb",
     images: [
       {
-        url: `/api/og?title=EtherealDreams`,
+        url: `/api/og?title=ArtWeb`,
         width: 1200,
         height: 630,
         alt: "Gallery Preview",
@@ -60,7 +60,7 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "EtherealDreams",
+    title: "ArtWeb",
   },
 };
 

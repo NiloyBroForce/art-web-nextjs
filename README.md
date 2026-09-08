@@ -5,7 +5,7 @@ The source code is licensed under MIT, but all photography/art assets are Copyri
 Niloy - Software Developer  
 Project Link: [https://github.com/NiloyBroForce/art-web-nextjs]
 
-💎 Ethereal Art Gallery 
+💎 ArtWeb Gallery 
 
 A high-performance, dark-themed digital automotive art gallery. This project showcases custom automotive photography and digital art through a sleek, modern interface built with Next.js 15 and Tailwind CSS v4.
 

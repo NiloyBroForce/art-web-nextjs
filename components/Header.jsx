@@ -37,7 +37,7 @@ export default function Header() {
         </Link>
       </div>
 
-      <span className="brand-title">EtherealDreams</span>
+      <span className="brand-title">ArtWeb</span>
 
       <div className="right-group">
         <NotificationBell />

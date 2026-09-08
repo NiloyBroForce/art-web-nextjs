@@ -38,9 +38,9 @@ export async function GET(req) {
     const keys = await redis.keys("push:*");
 
     const payload = JSON.stringify({
-        title: "Ethereal Dreams",
+        title: "ArtWeb",
         body:
-            "'Ethereal Dreams' collection isn't going to admire itself!",
+            "'ArtWeb' collection isn't going to admire itself!",
         image: "/screenshots/mobile-gallery.png",
         url: "/car-canvas"
     });

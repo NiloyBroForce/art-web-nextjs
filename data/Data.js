@@ -1,6 +1,6 @@
 export const carData = [
 	{
-		link: "Pontiac GTO.jpg",
+		link: "AquaPrism.jpg",
 		title: "AquaPrism",
 		fldWidth: 1800,
 		fldHeight: 2728,
@@ -8,31 +8,31 @@ export const carData = [
 		height: 410,
 	},
 	{
-		link: "Imp.jpeg",
-		title: "Iridescent Reflex",
+		link: "Iridescent-Reflex.jpeg",
+		title: "Iridescent-Reflex",
 		fldWidth: 1800,
 		fldHeight: 1800,
 		width: 409,
 		height: 410,
 	},
 	{
-		link: "Spyder5.jpg",
-		title: "Ephemeral inception",
+		link: "Ephemeral-inception.jpg",
+		title: "Ephemeral-inception",
 		fldWidth: 1800,
 		fldHeight: 1200,
 		width: 614,
 		height: 410,
 	},
 	{
-		link: "M2500.jpg",
-		title: "Phantom Reflection",
+		link: "Phantom-Reflection.jpg",
+		title: "Phantom-Reflection",
 		fldWidth: 400,
 		fldHeight: 550,
 		width: 209,
 		height: 344,
 	},
 	{
-		link: "Caddy.jpeg",
+		link: "Red8.jpeg",
 		title: "Red8",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -40,7 +40,7 @@ export const carData = [
 		height: 344,
 	},
 	{
-		link: "Huracan.jpeg",
+		link: "kaleidoscope.jpeg",
 		title: "kaleidoscope",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -48,7 +48,7 @@ export const carData = [
 		height: 344,
 	},
 	{
-		link: "Porsche 934 RSR.jpg",
+		link: "damnation.jpg",
 		title: "damnation",
 		fldWidth: 2455,
 		fldHeight: 1800,
@@ -56,7 +56,7 @@ export const carData = [
 		height: 438,
 	},
 	{
-		link: "Porsche 934.jpeg",
+		link: "Ballistic.jpeg",
 		title: "Ballistic",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -64,7 +64,7 @@ export const carData = [
 		height: 438,
 	},
 	{
-		link: "Porsche934.jpeg",
+		link: "trojan.jpeg",
 		title: "trojan",
 		fldWidth: 2500,
 		fldHeight: 2000,
@@ -72,7 +72,7 @@ export const carData = [
 		height: 292,
 	},
 	{
-		link: "crx2.jpg",
+		link: "poppin.jpg",
 		title: "poppin",
 		fldWidth: 1800,
 		fldHeight: 1200,
@@ -80,7 +80,7 @@ export const carData = [
 		height: 292,
 	},
 	{
-		link: "CRX.jpeg",
+		link: "conduit.jpeg",
 		title: "conduit",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -88,7 +88,7 @@ export const carData = [
 		height: 292,
 	},
 	{
-		link: "Toyota Supra MKIV.jpg",
+		link: "cipher.jpg",
 		title: "cipher",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -96,7 +96,7 @@ export const carData = [
 		height: 382,
 	},
 	{
-		link: "Toyo.jpeg",
+		link: "Kryptos.jpeg",
 		title: "Kryptos",
 		fldWidth: 1280,
 		fldHeight: 720,
@@ -104,7 +104,7 @@ export const carData = [
 		height: 382,
 	},
 	{
-		link: "Mon.webp",
+		link: "Translucent.webp",
 		title: "Translucent",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -112,7 +112,7 @@ export const carData = [
 		height: 396,
 	},
 	{
-		link: "Dodge.webp",
+		link: "polestar.webp",
 		title: "polestar",
 		fldWidth: 1700,
 		fldHeight: 1020,
@@ -120,7 +120,7 @@ export const carData = [
 		height: 396,
 	},
 	{
-		link: "Toyota.jpeg",
+		link: "Lightstreak.jpeg",
 		title: "Lightstreak",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -128,7 +128,7 @@ export const carData = [
 		height: 418,
 	},
 	{
-		link: "Toyota-Supra.jpeg",
+		link: "Lightray.jpeg",
 		title: "Lightray",
 		fldWidth: 2700,
 		fldHeight: 1800,
@@ -136,15 +136,15 @@ export const carData = [
 		height: 418,
 	},
 	{
-		link: "Cyl.jpeg",
-		title: "Impossible Cylinder",
+		link: "Impossible-Cylinder.jpeg",
+		title: "Impossible-Cylinder",
 		fldWidth: 769,
 		fldHeight: 1369,
 		width: 200,
 		height: 347,
 	},
 	{
-		link: "charger2.jpeg",
+		link: "roadstar.jpeg",
 		title: "roadstar",
 		fldWidth: 1800,
 		fldHeight: 1200,
@@ -152,7 +152,7 @@ export const carData = [
 		height: 347,
 	},
 	{
-		link: "Charger.jpeg",
+		link: "RoadRash.jpeg",
 		title: "RoadRash",
 		fldWidth: 1700,
 		fldHeight: 1133,
@@ -160,7 +160,7 @@ export const carData = [
 		height: 347,
 	},
 	{
-		link: "dodge1.jpg",
+		link: "dawn.jpg",
 		title: "dawn",
 		fldWidth: 3500,
 		fldHeight: 1553,
@@ -168,7 +168,7 @@ export const carData = [
 		height: 343,
 	},
 	{
-		link: "Mazda RX7.jpg",
+		link: "lighthouse.jpg",
 		title: "lighthouse",
 		fldWidth: 1800,
 		fldHeight: 1284,
@@ -176,7 +176,7 @@ export const carData = [
 		height: 343,
 	},
 	{
-		link: "Old Muscle Squad.jpg",
+		link: "Darkveil.jpg",
 		title: "Darkveil",
 		fldWidth: 1800,
 		fldHeight: 1200,
@@ -184,7 +184,7 @@ export const carData = [
 		height: 438,
 	},
 	{
-		link: "mustang.jpg",
+		link: "polarizing.jpg",
 		title: "polarizing",
 		fldWidth: 1700,
 		fldHeight: 1247,
@@ -192,7 +192,7 @@ export const carData = [
 		height: 438,
 	},
 	{
-		link: "mustang3.jpeg",
+		link: "Twilight.jpeg",
 		title: "Twilight",
 		fldWidth: 1800,
 		fldHeight: 1320,
@@ -200,7 +200,7 @@ export const carData = [
 		height: 423,
 	},
 	{
-		link: "bmw4.jpeg",
+		link: "splinter.jpeg",
 		title: "splinter",
 		fldWidth: 4275,
 		fldHeight: 3576,
@@ -208,7 +208,7 @@ export const carData = [
 		height: 423,
 	},
 	{
-		link: "M25001.jpeg",
+		link: "EXIOƎ.jpeg",
 		title: "EXIOƎ",
 		fldWidth: 1600,
 		fldHeight: 2500,
@@ -216,7 +216,7 @@ export const carData = [
 		height: 2500,
 	},
 	{
-		link: "bmw2.jpeg",
+		link: "Spirit.jpeg",
 		title: "Spirit",
 		fldWidth: 4116,
 		fldHeight: 3591,
@@ -224,7 +224,7 @@ export const carData = [
 		height: 336,
 	},
 	{
-		link: "Ply.jpeg",
+		link: "sinister.jpeg",
 		title: "sinister",
 		fldWidth: 1800,
 		fldHeight: 1234,
@@ -232,7 +232,7 @@ export const carData = [
 		height: 336,
 	},
 	{
-		link: "Plymoth.jpeg",
+		link: "medius.jpeg",
 		title: "medius",
 		fldWidth: 1700,
 		fldHeight: 1202,
@@ -240,7 +240,7 @@ export const carData = [
 		height: 443,
 	},
 	{
-		link: "ply1.jpeg",
+		link: "Dexter.jpeg",
 		title: "Dexter",
 		fldWidth: 1800,
 		fldHeight: 1273,
@@ -248,7 +248,7 @@ export const carData = [
 		height: 443,
 	},
 	{
-		link: "bmw1.jpeg",
+		link: "Xager.jpeg",
 		title: "Xager",
 		fldWidth: 4800,
 		fldHeight: 3600,
@@ -256,7 +256,7 @@ export const carData = [
 		height: 371,
 	},
 	{
-		link: "BMW.jpg",
+		link: "Zeta.jpg",
 		title: "Zeta",
 		fldWidth: 4800,
 		fldHeight: 3600,
@@ -264,7 +264,7 @@ export const carData = [
 		height: 371,
 	},
 	{
-		link: "Lambo.webp",
+		link: "Nexus.webp",
 		title: "Nexus",
 		fldWidth: 3200,
 		fldHeight: 2000,
@@ -272,7 +272,7 @@ export const carData = [
 		height: 371,
 	},
 	{
-		link: "spyder1.jpeg",
+		link: "Chimera.jpeg",
 		title: "Chimera",
 		fldWidth: 5120,
 		fldHeight: 2880,
@@ -280,7 +280,7 @@ export const carData = [
 		height: 371,
 	},
 	{
-		link: "dodge2.webp",
+		link: "Tren.webp",
 		title: "Tren",
 		fldWidth: 3200,
 		fldHeight: 2000,
@@ -288,7 +288,7 @@ export const carData = [
 		height: 403,
 	},
 	{
-		link: "Squad.jpg",
+		link: "Shimmer.jpg",
 		title: "Shimmer",
 		fldWidth: 2560,
 		fldHeight: 1694,
@@ -296,7 +296,7 @@ export const carData = [
 		height: 403,
 	},
 	{
-		link: "Subaru Impreza STI.jpg",
+		link: "mirage.jpg",
 		title: "mirage",
 		fldWidth: 2560,
 		fldHeight: 1920,
@@ -304,15 +304,15 @@ export const carData = [
 		height: 345,
 	},
 	{
-		link: "Challenge.jpeg",
-		title: "Projected Dream",
+		link: "Projected-Dream.jpeg",
+		title: "Projected-Dream",
 		fldWidth: 1900,
 		fldHeight: 1904,
 		width: 344,
 		height: 345,
 	},
 	{
-		link: "Lamb.jpeg",
+		link: "Prismplex.jpeg",
 		title: "Prismplex",
 		fldWidth: 2140,
 		fldHeight: 1920,
@@ -320,7 +320,7 @@ export const carData = [
 		height: 345,
 	},
 	{
-		link: "Torino.jpg",
+		link: "Ambigram.jpg",
 		title: "Ambigram",
 		fldWidth: 2048,
 		fldHeight: 1536,
@@ -328,7 +328,7 @@ export const carData = [
 		height: 330,
 	},
 	{
-		link: "Veneno.jpeg",
+		link: "Purpureus.jpeg",
 		title: "Purpureus",
 		fldWidth: 1920,
 		fldHeight: 2560,
@@ -336,7 +336,7 @@ export const carData = [
 		height: 330,
 	},
 	{
-		link: "gtr1.jpg",
+		link: "iridescence.jpg",
 		title: "iridescence",
 		fldWidth: 1200,
 		fldHeight: 1600,
@@ -344,7 +344,7 @@ export const carData = [
 		height: 330,
 	},
 	{
-		link: "spyder2.jpeg",
+		link: "Kindle.jpeg",
 		title: "Kindle",
 		fldWidth: 1200,
 		fldHeight: 1600,
@@ -352,15 +352,15 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "GTR.jpeg",
-		title: "Specular Reflection",
+		link: "Specular-Reflection.jpeg",
+		title: "Specular-Reflection",
 		fldWidth: 1200,
 		fldHeight: 1600,
 		width: 647,
 		height: 404,
 	},
 	{
-		link: "spyder.jpeg",
+		link: "electra.jpeg",
 		title: "electra",
 		fldWidth: 1200,
 		fldHeight: 1600,
@@ -368,7 +368,7 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "impala2.jpeg",
+		link: "radiance.jpeg",
 		title: "radiance",
 		fldWidth: 2008,
 		fldHeight: 1536,
@@ -376,7 +376,7 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "veneno1.jpeg",
+		link: "DarkStar.jpeg",
 		title: "DarkStar",
 		fldWidth: 1550,
 		fldHeight: 2140,
@@ -384,7 +384,7 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "Mercy.jpg",
+		link: "lambda.jpg",
 		title: "lambda",
 		fldWidth: 1500,
 		fldHeight: 810,
@@ -392,15 +392,15 @@ export const carData = [
 		height: 347,
 	},
 	{
-		link: "Mustang2.jpeg",
-		title: "Boss Stang",
+		link: "Boss-Stang.jpeg",
+		title: "Boss-Stang",
 		fldWidth: 3000,
 		fldHeight: 2250,
 		width: 461,
 		height: 347,
 	},
 	{
-		link: "integra.jpg",
+		link: "Canva.jpg",
 		title: "Canva",
 		fldWidth: 1075,
 		fldHeight: 960,
@@ -408,7 +408,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "Mono.webp",
+		link: "Plexiglass.webp",
 		title: "Plexiglass",
 		fldWidth: 2260,
 		fldHeight: 1800,
@@ -416,7 +416,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "bmw3.jpeg",
+		link: "lightdust.jpeg",
 		title: "lightdust",
 		fldWidth: 2000,
 		fldHeight: 1249,
@@ -424,7 +424,7 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "mono2.webp",
+		link: "Technetro.webp",
 		title: "Technetro",
 		fldWidth: 2447,
 		fldHeight: 2000,
@@ -432,15 +432,15 @@ export const carData = [
 		height: 404,
 	},
 	{
-		link: "Mclaren3.jpeg",
-		title: "Corona Stellae",
+		link: "Corona-Stellae.jpeg",
+		title: "Corona-Stellae",
 		fldWidth: 768,
 		fldHeight: 907,
 		width: 262,
 		height: 402,
 	},
 	{
-		link: "Mclaren P1.jpeg",
+		link: "kandela.jpeg",
 		title: "kandela",
 		fldWidth: 768,
 		fldHeight: 1024,
@@ -448,7 +448,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "Mclaren.jpg",
+		link: "Centaur.jpg",
 		title: "Centaur",
 		fldWidth: 768,
 		fldHeight: 1024,
@@ -456,7 +456,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "veneno4.jpg",
+		link: "Devious.jpg",
 		title: "Devious",
 		fldWidth: 768,
 		fldHeight: 1024,
@@ -464,7 +464,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "veneno3.jpeg",
+		link: "Reckless.jpeg",
 		title: "Reckless",
 		fldWidth: 768,
 		fldHeight: 1024,
@@ -472,7 +472,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "mclaren2.jpeg",
+		link: "Mural.jpeg",
 		title: "Mural",
 		fldWidth: 1536,
 		fldHeight: 1958,
@@ -480,7 +480,7 @@ export const carData = [
 		height: 372,
 	},
 	{
-		link: "Mclaren1.jpeg",
+		link: "Alter.jpeg",
 		title: "Alter",
 		fldWidth: 1536,
 		fldHeight: 1912,
@@ -488,7 +488,7 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "Chevrolet Corvette C6.jpg",
+		link: "VISAGE.jpg",
 		title: "VISAGE",
 		fldWidth: 1500,
 		fldHeight: 1785,
@@ -496,7 +496,7 @@ export const carData = [
 		height: 402,
 	},
 	{
-		link: "charger3.jpg",
+		link: "charge.jpg",
 		title: "charge",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -504,7 +504,7 @@ export const carData = [
 		height: 405,
 	},
 	{
-		link: "Impala.jpg",
+		link: "ElectroBoom.jpg",
 		title: "ElectroBoom",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -512,7 +512,7 @@ export const carData = [
 		height: 325,
 	},
 	{
-		link: "Pagani Huayra.jpeg",
+		link: "Convex.jpeg",
 		title: "Convex",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -520,7 +520,7 @@ export const carData = [
 		height: 325,
 	},
 	{
-		link: "Pagani.jpeg",
+		link: "Refraction.jpeg",
 		title: "Refraction",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -528,7 +528,7 @@ export const carData = [
 		height: 325,
 	},
 	{
-		link: "Ford Raptor.jpg",
+		link: "tenet.jpg",
 		title: "tenet",
 		fldWidth: 1536,
 		fldHeight: 1807,
@@ -536,7 +536,7 @@ export const carData = [
 		height: 325,
 	},
 	{
-		link: "Chevrolet-Camaro-SS.jpg",
+		link: "infinix.jpg",
 		title: "infinix",
 		fldWidth: 1536,
 		fldHeight: 1683,
@@ -544,7 +544,7 @@ export const carData = [
 		height: 325,
 	},
 	{
-		link: "spyder4.jpeg",
+		link: "Jolt.jpeg",
 		title: "Jolt",
 		fldWidth: 1536,
 		fldHeight: 1650,
@@ -552,7 +552,7 @@ export const carData = [
 		height: 372,
 	},
 	{
-		link: "Spyder3.jpeg",
+		link: "severance.jpeg",
 		title: "severance",
 		fldWidth: 1536,
 		fldHeight: 1712,
@@ -560,15 +560,15 @@ export const carData = [
 		height: 392,
 	},
 	{
-		link: "Lambo Squad.jpeg",
-		title: "Neon Dream",
+		link: "Neon-Dream.jpeg",
+		title: "Neon-Dream",
 		fldWidth: 1536,
 		fldHeight: 1745,
 		width: 519,
 		height: 325,
 	},
 	{
-		link: "challenge3.jpeg",
+		link: "PANORAMA.jpeg",
 		title: "PANORAMA",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -576,7 +576,7 @@ export const carData = [
 		height: 402,
 	},
 	{
-		link: "challenge2.jpeg",
+		link: "blaze.jpeg",
 		title: "blaze",
 		fldWidth: 1536,
 		fldHeight: 2048,
@@ -584,8 +584,8 @@ export const carData = [
 		height: 405,
 	},
 	{
-		link: "lamb svj.webp",
-		title: "Chromatic Mist",
+		link: "Chromatic-Mist.webp",
+		title: "Chromatic-Mist",
 		fldWidth: 1536,
 		fldHeight: 1786,
 		width: 537,
